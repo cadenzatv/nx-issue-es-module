@@ -1,0 +1,10 @@
+{
+    "version": 2,
+    "projects": {
+        "test": "packages/test"
+    },
+    "cli": {
+        "defaultCollection": "@nrwl/nest"
+    },
+    "defaultProject": "default"
+}
